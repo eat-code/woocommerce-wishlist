@@ -1,0 +1,235 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Wishlist\n"
+"POT-Creation-Date: 2017-09-12 12:11+0600\n"
+"PO-Revision-Date: 2017-09-12 12:11+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wishlist-option.php:95
+msgid "General Settings"
+msgstr ""
+
+#: wishlist-option.php:98
+msgid "Enable Notice"
+msgstr ""
+
+#: wishlist-option.php:107 wishlist-option.php:142
+msgid "No"
+msgstr ""
+
+#: wishlist-option.php:108 wishlist-option.php:144
+msgid "Yes"
+msgstr ""
+
+#: wishlist-option.php:115
+msgid "Text Message"
+msgstr ""
+
+#: wishlist-option.php:121
+msgid "Button Text"
+msgstr ""
+
+#: wishlist-option.php:123
+msgid "Add Button text"
+msgstr ""
+
+#: wishlist-option.php:127
+msgid "Button URL"
+msgstr ""
+
+#: wishlist-option.php:129 woocommerce-wishlist.php:254
+#: woocommerce-wishlist.php:300
+msgid "#"
+msgstr ""
+
+#: wishlist-option.php:133
+msgid "Target Link"
+msgstr ""
+
+#: wishlist-option.php:149
+msgid "Content Style"
+msgstr ""
+
+#: wishlist-option.php:158
+msgid "Font size"
+msgstr ""
+
+#: wishlist-option.php:168
+msgid "Font Weight"
+msgstr ""
+
+#: wishlist-option.php:178
+msgid "Text Color"
+msgstr ""
+
+#: wishlist-option.php:188
+msgid "Link Color"
+msgstr ""
+
+#: wishlist-option.php:198
+msgid "Link Hover Color"
+msgstr ""
+
+#: wishlist-option.php:208
+msgid "Close Color"
+msgstr ""
+
+#: wishlist-option.php:218
+msgid "Close Hover Color"
+msgstr ""
+
+#: wishlist-option.php:223
+msgid "Button Style"
+msgstr ""
+
+#: wishlist-option.php:232
+msgid "Button Font size"
+msgstr ""
+
+#: wishlist-option.php:242
+msgid "Button Font Weight"
+msgstr ""
+
+#: wishlist-option.php:252
+msgid "Button Color"
+msgstr ""
+
+#: wishlist-option.php:262
+msgid "Button Hover Color"
+msgstr ""
+
+#: wishlist-option.php:272
+msgid "Button Bg Color"
+msgstr ""
+
+#: wishlist-option.php:282
+msgid "Button Bg Hover Color"
+msgstr ""
+
+#: wishlist-option.php:292
+msgid "Button padding"
+msgstr ""
+
+#: wishlist-option.php:303
+msgid "Border Radius"
+msgstr ""
+
+#: wishlist-option.php:308
+msgid "Notice Wrapper Style"
+msgstr ""
+
+#: wishlist-option.php:317
+msgid "Background Color"
+msgstr ""
+
+#: wishlist-option.php:327
+msgid "Background Image"
+msgstr ""
+
+#: wishlist-option.php:329
+msgid "add image url"
+msgstr ""
+
+#: wishlist-option.php:339
+msgid "Bar Height"
+msgstr ""
+
+#: wishlist-option.php:343
+msgid "Alignment"
+msgstr ""
+
+#: wishlist-option.php:352
+msgid "Left"
+msgstr ""
+
+#: wishlist-option.php:354
+msgid "Center"
+msgstr ""
+
+#: woocommerce-wishlist.php:71
+msgid "Add To Wishlist"
+msgstr ""
+
+#: woocommerce-wishlist.php:93 woocommerce-wishlist.php:144
+#: woocommerce-wishlist.php:184
+msgid "You have to Sign In"
+msgstr ""
+
+#: woocommerce-wishlist.php:94 woocommerce-wishlist.php:145
+#: woocommerce-wishlist.php:185
+msgid "Please Sign in First to Add Wishlist"
+msgstr ""
+
+#: woocommerce-wishlist.php:108
+msgid "Product Already in Wishlist!"
+msgstr ""
+
+#: woocommerce-wishlist.php:109
+msgid "Product Already in Wishlist."
+msgstr ""
+
+#: woocommerce-wishlist.php:111 woocommerce-wishlist.php:125
+msgid "View Wishlist"
+msgstr ""
+
+#: woocommerce-wishlist.php:122
+msgid "Added to Wishlist"
+msgstr ""
+
+#: woocommerce-wishlist.php:123
+msgid "Product Added to the Wishlist."
+msgstr ""
+
+#: woocommerce-wishlist.php:162
+msgid "Add to Cart Done"
+msgstr ""
+
+#: woocommerce-wishlist.php:163
+msgid "Product Add to Cart."
+msgstr ""
+
+#: woocommerce-wishlist.php:165
+msgid "Go to Cart"
+msgstr ""
+
+#: woocommerce-wishlist.php:206 woocommerce-wishlist.php:207
+msgid "Wishlist Update Done!"
+msgstr ""
+
+#: woocommerce-wishlist.php:209
+msgid "Confirm"
+msgstr ""
+
+#: woocommerce-wishlist.php:218 woocommerce-wishlist.php:219
+msgid "Error Occured"
+msgstr ""
+
+#: woocommerce-wishlist.php:246
+msgid "Wishlist"
+msgstr ""
+
+#: woocommerce-wishlist.php:255 woocommerce-wishlist.php:301
+msgid "Image"
+msgstr ""
+
+#: woocommerce-wishlist.php:256 woocommerce-wishlist.php:302
+msgid "Name"
+msgstr ""
+
+#: woocommerce-wishlist.php:257 woocommerce-wishlist.php:303
+msgid "Action"
+msgstr ""
